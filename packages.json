@@ -1,0 +1,4 @@
+  [
+    { "package": "moose", "url": "https://github.com/leipzig/moose" },
+    { "package": "asciiruler", "url": "https://github.com/leipzig/asciiruler" }
+  ]
