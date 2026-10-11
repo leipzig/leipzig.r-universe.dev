@@ -6,5 +6,9 @@
   {
     "package": "asciiruler",
     "url": "https://github.com/leipzig/asciiruler"
+  },
+  {
+    "package": "rhylthyme",
+    "url": "https://github.com/rhylthyme/rhylthyme-r"
   }
 ]
