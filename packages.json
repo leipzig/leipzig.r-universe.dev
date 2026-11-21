@@ -3,6 +3,10 @@
     "package": "dimoose",
     "url": "https://github.com/leipzig/dimoose"
   },
+    {
+    "package": "mecit",
+    "url": "https://github.com/leipzig/mecit"
+  },
   {
     "package": "asciiruler",
     "url": "https://github.com/leipzig/asciiruler"
